@@ -1,42 +1,42 @@
-[
-      {
-	 "id":"1",
-         "name":"MEN'S BETTER THAN NAKED&trade; JACKET",
-         "imageurl":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
-         "header-top-right-text":"Shop All",
-         "header-top-left-text":"Men's",
-         "producturl":"http://www.thenorthface.com/catalog/sc-gear/men-39-s-better-than-naked-8482-jacket.html",
-         "header-top-right-url":"http://www.thenorthface.com/en_US/shop-mens/",
-         "product-cta-text":"Shop Now"
-      },
-      {
-	 "id":"2",
-         "name":"WOMEN'S BETTER THAN NAKED&trade; JACKET",
-         "imageurl":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-better-than-naked-jacket-AVKL_NN4_hero.png",
-         "header-top-right-text":"Shop All",
-         "header-top-left-text":"Women's",
-         "producturl":"http://www.thenorthface.com/catalog/sc-gear/women-39-s-better-than-naked-8482-jacket.html",
-         "header-top-right-url":"http://www.thenorthface.com/en_US/shop-womens/",
-         "product-cta-text":"Shop Now"
-      },
-      {
-	 "id":"3",
-         "name":"WOMEN'S SINGLE-TRACK SHOE",
-         "imageurl":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/womens-single-track-shoe-ALQF_JM3_hero.png",
-         "header-top-right-text":"Shop All",
-         "header-top-left-text":"Running Shoes",
-         "producturl":"http://www.thenorthface.com/catalog/sc-gear/womens-single-track.html",
-         "header-top-right-url":"http://www.thenorthface.com/webapp/wcs/stores/servlet/TNFSearchResult?langId=-1&amp;storeId=207&amp;catalogId=10201&amp;searchTerm=running%20shoes",
-         "product-cta-text":"Shop Now"
-      },
-      {
-	 "id":"4",
-         "name":"Enduro Boa&reg; Hydration Pack",
-         "imageurl":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/enduro-boa-hydration-pack-AJQZ_JK3_hero.png",
-         "header-top-right-text":"Shop All",
-         "header-top-left-text":"Equipment",
-         "producturl":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
-         "header-top-right-url":"http://www.thenorthface.com/en_US/shop-equipment/",
-         "product-cta-text":"Shop Now"
-      }
-   ]
+ [
+		{
+			"id" : 1,
+			"imgUrl": { 
+				url:  "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0"
+			},
+			"name": "CHECK PRINT SHIRT",
+			"price": 110
+		},
+		{
+			"id" : 2,
+			"imgUrl":{
+				url: "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0"
+			},
+			"name": "GLORIA HIGH LOGO SNEAKER",
+			"price": 91
+		},
+		{
+			"id" : 3,
+			"imgUrl":{ 
+				url : "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0"
+			},
+			"name": "CATE RIGID BAG",
+			"price": 94.5
+		},
+		{
+			"id" : 4,
+			"imgUrl":{
+				url :  "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0"
+			},
+			"name": "GUESS CONNECT WATCH",
+			"price": 438.9
+		},
+		{
+			"id" : 5,
+			"imgUrl": {
+				url :  "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0"
+			},
+			"name": "'70s RETRO GLAM KEFIAH",
+			"price": 20
+		}
+	]
